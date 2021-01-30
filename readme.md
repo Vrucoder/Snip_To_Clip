@@ -1,3 +1,5 @@
+# Snip-to-Clip
+
 Pre-requisites: As of now, this hack works on windows computers. Python needs to be preinstalled.  
 
 It happens that you find a bunch of text data in an image and you want to use it somewhere. Now, you may manually copy it, but it can be time consuming, if the data is large. 
