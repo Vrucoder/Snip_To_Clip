@@ -1,1 +1,0 @@
-# Snip_To_Clip
