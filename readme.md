@@ -1,4 +1,5 @@
 # Snip-to-Clip
+Disclaimer: The output text may not be accurate. This depends on the tesseract OCR engine, and text accuracy can be affected by clarity/sharpness of the image and font style (assuming)? 
 
 Pre-requisites: As of now, this hack works on windows computers. Python needs to be preinstalled.  
 
